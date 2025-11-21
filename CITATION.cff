@@ -22,4 +22,4 @@ abstract: >-
   Capture-And-Measure Clinical Acquisition Module
   Computational Analysis Module.
 date-released: 2025-11-21
-url: https://github.com/bistdude/vitalcam
+url: "https://github.com/bistdude/vitalcam"

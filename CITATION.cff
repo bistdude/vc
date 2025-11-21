@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Vital-CAM; Vitalcam
+title: Vital-CAM; Vitalcam: Continuous Physiological Signal Acquisition Platform
 message: prev0
 type: software
 authors:
@@ -21,3 +21,5 @@ abstract: >-
   digital waveform, and compute its HRV in real-time.
   Capture-And-Measure Clinical Acquisition Module
   Computational Analysis Module.
+date-released: 2025-11-21
+url: https://github.com/bistdude/vitalcam
